@@ -1,0 +1,9 @@
+make -f /home/hoseung/Work/GPU_test/run/makefile --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/hoseung/Work/GPU_test'
+make: Leaving directory '/home/hoseung/Work/GPU_test'
+ 
+make: /home/hoseung/Work/GPU_test/run/makefile: No such file or directory
+make: *** No rule to make target '/home/hoseung/Work/GPU_test/run/makefile'.
+make: Failed to remake makefile '/home/hoseung/Work/GPU_test/run/makefile'.
+make: *** No targets specified and no makefile found.  Stop.
+ 
